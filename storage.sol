@@ -21,4 +21,4 @@ contract Storage {
     }
 }
 
-//https://bscscan.com/token/0xaDC810e0500DAaDc8377df711F8F61D7598c41d4
+//0x75497109969e76Ede871931b00fBBfE220f0B9b7
