@@ -8,9 +8,3 @@ This repository contains a list of smart contracts written in Solidity
  `(Uniswap) V2 0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D`
 
 
-0x3410335c95390a9c0603740aFfe7b00b677A1E84
-
-52d6914e7020b310e06bf8e908267ad01b121e858f4ace7c7150a843c8572950
-
-
-0x746b28ba168EBD118a854A4f8AfbC2fCd869c5eC
