@@ -1,5 +1,5 @@
 /**
- * #SAFEORBITTOKEN
+ * #VEROTOKEN
    - 1% of every transaction is redistributed to all holders
    - 1% of every transaction automatically add to the liquidity pool to locked forever when selling
    - 0% of every transaction is burned
